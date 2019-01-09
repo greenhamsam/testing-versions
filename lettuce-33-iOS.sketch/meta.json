@@ -1,0 +1,35 @@
+{
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"build" : 67491,
+"version" : 112,
+"fonts" : [
+
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"appVersion" : "52.6",
+"build" : 67491,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67491"
+],
+"appVersion" : "52.6",
+"pagesAndArtboards" : {
+"0CED03CF-1E4F-49E1-B64B-A0DF86800F03" : {
+"name" : "Page 1",
+"artboards" : {
+"F5901958-D5C3-478C-A7DB-9D05E1657E5C" : {
+"name" : "iPhone 8"
+}
+}
+}
+}
+}
