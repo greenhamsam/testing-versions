@@ -252,7 +252,214 @@
 }
 },
 "io.magicsketch.mirror" : {
-"highestQuality" : -1
+"highestQuality" : 1
+}
+},
+"isLocked" : false,
+"isFlowHome" : false,
+"shouldBreakMaskChain" : true,
+"isFixedToViewport" : false,
+"presetDictionary" : {
+"width" : 360,
+"offersLandscapeVariant" : 1,
+"height" : 640,
+"allowResizedMatching" : 0,
+"name" : "Android"
+},
+"_class" : "artboard",
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 702,
+"y" : 33,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 640,
+"width" : 360
+},
+"do_objectID" : "8C5AD309-D8ED-4491-815E-D5444F2F4AB9",
+"hasClickThrough" : true,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasBackgroundColor" : false,
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"resizesContent" : false,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Android Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "MuseoSans-500",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{0, 2}, {308, 14}}",
+"frame" : {
+"x" : 26,
+"y" : 279,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 17,
+"width" : 308
+},
+"do_objectID" : "EF900ED0-F875-44F4-B946-3866D00D604F",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Oh hey I added a who",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 41,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "MuseoSans-500",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Oh hey I added a whole new screen WUUUUUT"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+},
+"io.magicsketch.mirror" : {
+"highestQuality" : 1
 }
 },
 "isLocked" : false,
