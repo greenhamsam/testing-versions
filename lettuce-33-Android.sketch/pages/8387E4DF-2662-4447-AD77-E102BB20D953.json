@@ -125,12 +125,12 @@
 },
 "rotation" : 0,
 "frame" : {
-"x" : 132,
-"y" : 39,
+"x" : 87,
+"y" : 80,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 36,
-"width" : 96
+"height" : 70,
+"width" : 187
 },
 "do_objectID" : "7DD4AA55-7D88-4528-9E4A-9E8D9FD32686",
 "layerListExpandedType" : 0,
@@ -168,7 +168,18 @@
 "_class" : "symbolInstance",
 "booleanOperation" : -1,
 "overrideValues" : [
-
+{
+"do_objectID" : "CC4FBAF9-F1A3-4AC9-ACCC-4152CF6F2315",
+"overrideName" : "08C5F435-D882-483C-83F5-D398A89DAE4A_symbolID",
+"_class" : "overrideValue",
+"value" : "9F11D622-26F2-4BC6-B1AB-C55F2951B514"
+},
+{
+"do_objectID" : "0631A2F0-E602-492B-8722-8BB7936CDC1E",
+"overrideName" : "471495BD-48B8-4CAF-A33E-1730F2E2B79B\/856FB902-8190-4D3F-BECF-30AC63598E43_stringValue",
+"_class" : "overrideValue",
+"value" : "NOW IT'S GREEN"
+}
 ],
 "resizingConstraint" : 63
 },
