@@ -1,0 +1,279 @@
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 300,
+"width" : 300
+},
+"do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Page 1",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 242,
+"y" : 33,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 640,
+"width" : 360
+},
+"do_objectID" : "8539B358-D9B7-4235-8D02-B80EADE68AE2",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"hasBackgroundColor" : false,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"includeInCloudUpload" : true,
+"resizesContent" : false,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Android",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+},
+"io.magicsketch.mirror" : {
+"highestQuality" : -1
+}
+},
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 132,
+"y" : 39,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 36,
+"width" : 96
+},
+"do_objectID" : "7DD4AA55-7D88-4528-9E4A-9E8D9FD32686",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"symbolID" : "4ED0918E-4130-4978-A238-6C638FF90B09",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Buttons \/ Contained \/ Disabled",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+},
+{
+"isFlippedHorizontal" : false,
+"verticalSpacing" : 0,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 8,
+"y" : 213,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 376,
+"width" : 344
+},
+"do_objectID" : "E97E5C20-8F55-49A9-A126-6935B0FEDA89",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"symbolID" : "6D005C1C-3D4C-4CF7-9F68-4B2C69C9A03D",
+"isFlippedVertical" : false,
+"nameIsFixed" : false,
+"name" : "Cards \/ Title Top \/ Filled \/ Resting",
+"isVisible" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"horizontalSpacing" : 0,
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"overrideValues" : [
+
+]
+}
+],
+"isLocked" : false,
+"shouldBreakMaskChain" : true,
+"isFlowHome" : false,
+"isFixedToViewport" : false,
+"presetDictionary" : {
+"name" : "Android",
+"offersLandscapeVariant" : 1,
+"width" : 360,
+"allowResizedMatching" : 0,
+"height" : 640
+},
+"_class" : "artboard",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"includeBackgroundColorInExport" : true
+}
+],
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "page",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+}
