@@ -7,7 +7,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -17,7 +23,7 @@
 "width" : 300
 },
 "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -29,15 +35,9 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
 "includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -46,18 +46,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Page 1",
 "isVisible" : true,
-"resizingType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -69,7 +60,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 242,
 "y" : 33,
@@ -79,7 +76,7 @@
 "width" : 360
 },
 "do_objectID" : "8539B358-D9B7-4235-8D02-B80EADE68AE2",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -91,15 +88,9 @@
 
 ]
 },
-"hasClickThrough" : true,
 "hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
 "backgroundColor" : {
 "red" : 1,
 "_class" : "color",
@@ -107,8 +98,8 @@
 "blue" : 1,
 "green" : 1
 },
-"includeInCloudUpload" : true,
 "resizesContent" : false,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -117,21 +108,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Android",
 "isVisible" : true,
-"resizingType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-},
-"io.magicsketch.mirror" : {
-"highestQuality" : -1
-}
-},
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -166,12 +145,15 @@
 
 ]
 },
-"symbolID" : "4ED0918E-4130-4978-A238-6C638FF90B09",
+"symbolID" : "B563D7A0-A98C-4447-BC5A-5EC7ECAC00BE",
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Buttons \/ Contained \/ Disabled",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
+"horizontalSpacing" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
 "kModelPropertiesKey" : {
@@ -179,19 +161,16 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
-"horizontalSpacing" : 0,
 "isLocked" : false,
 "scale" : 1,
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
 "_class" : "symbolInstance",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
 "overrideValues" : [
 
-]
+],
+"resizingConstraint" : 63
 },
 {
 "isFlippedHorizontal" : false,
@@ -227,9 +206,62 @@
 },
 "symbolID" : "6D005C1C-3D4C-4CF7-9F68-4B2C69C9A03D",
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Cards \/ Title Top \/ Filled \/ Resting",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"horizontalSpacing" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"scale" : 1,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "symbolInstance",
+"booleanOperation" : -1,
+"overrideValues" : [
+
+],
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+},
+"io.magicsketch.mirror" : {
+"highestQuality" : -1
+}
+},
+"isLocked" : false,
+"isFlowHome" : false,
+"shouldBreakMaskChain" : true,
+"isFixedToViewport" : false,
+"presetDictionary" : {
+"width" : 360,
+"offersLandscapeVariant" : 1,
+"height" : 640,
+"allowResizedMatching" : 0,
+"name" : "Android"
+},
+"_class" : "artboard",
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -238,38 +270,6 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
-"horizontalSpacing" : 0,
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"resizingConstraint" : 63,
-"overrideValues" : [
-
-]
-}
-],
-"isLocked" : false,
-"shouldBreakMaskChain" : true,
-"isFlowHome" : false,
-"isFixedToViewport" : false,
-"presetDictionary" : {
-"name" : "Android",
-"offersLandscapeVariant" : 1,
-"width" : 360,
-"allowResizedMatching" : 0,
-"height" : 640
-},
-"_class" : "artboard",
-"booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
-}
-],
 "isLocked" : false,
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
